@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparis", "Comparis\Comparis.csproj", "{3C479C22-A7D7-421B-B888-DC3D52307B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparisTests", "ComparisTests\ComparisTests.csproj", "{7484BD54-46E0-451D-8A1E-2C1F9E599ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C479C22-A7D7-421B-B888-DC3D52307B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C479C22-A7D7-421B-B888-DC3D52307B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C479C22-A7D7-421B-B888-DC3D52307B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C479C22-A7D7-421B-B888-DC3D52307B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7484BD54-46E0-451D-8A1E-2C1F9E599ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7484BD54-46E0-451D-8A1E-2C1F9E599ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7484BD54-46E0-451D-8A1E-2C1F9E599ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7484BD54-46E0-451D-8A1E-2C1F9E599ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
